@@ -63,7 +63,6 @@ dans le `CHANGELOG.md` de `its-dp-fab-cicd-common`, versionné par tag `vX.Y.Z`.
 
 ### À confirmer
 
-- Tiret simple « - » avant « Managed » dans les noms DEV et PRD (saisis une fois avec un tiret long « – »).
 - Organisation et service connection GitHub ; noms des 3 service connections ARM ITG, PPR et PRD (création prévue).
 - Casse exacte du pipeline CI dans Azure DevOps.
 - Types d'items, règles, connexions Fabric, Variable Libraries, `guid_policy` et `data_dependencies`,
